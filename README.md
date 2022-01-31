@@ -1,6 +1,6 @@
 # Russia Alcohol Dashboard
 
-## Project Discription :
+## Project Description :
 
 This is a Data Science project that focus on cleaning the data and presenting it using various plots made from the data using python libraries. The plots are presented into a web page and works on local system for now. The data set was picked from <a href="https://www.kaggle.com/">kaggle</a> and can be downloaded from this <a href="https://www.kaggle.com/dwdkills/alcohol-consumption-in-russia">link</a> , and has also being uploaded in this repo <a href="https://github.com/prateek11rai/russia-alcohol-dashboard/blob/main/russia_alcohol.csv">here</a>. The python libraries used are Dash and Plotly. The dataset has region wise consumtion for various kinds of alcohol from 1998 to 2016 and thus that data is used to present it in a histogram form for each region for each type of alcohol. It has drop down from which year can be selected and based on the selected year all the graphs are displayed. The source file is <a href="https://github.com/prateek11rai/russia-alcohol-dashboard/blob/main/Russia_alcohol_dashboard.ipynb">Russia_alcohol_dashboard.ipynb</a> .
 
